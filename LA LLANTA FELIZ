@@ -113,7 +113,7 @@ padding: 8px 12px;
 border:2px solid red;
 border-radius: 4px;
 width: 500px;
-background-image:url("IMG/buscador6.jpeg"); 
+background-image:url("buscador6.jpeg"); 
 background-position:10px 10px; 
 background-repeat:no-repeat; 
 padding:12px 20px 12px 40px; 
@@ -164,7 +164,7 @@ border-radius:4px;
 </ul>
 </li>
 <li><a href="Accesorios.html">Accesorios</a></li>
-<li><a href="contacto.html">Contacto</a></li>
+<li><a href="Contacto.html">Contacto</a></li>
 </ul>
 </div>
 <div class="bici-container">
